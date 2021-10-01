@@ -3,13 +3,14 @@ print("HELLO WORLD")
 a=10
 b=20
 c=30
-d=a+b+c
-print(d)
+d=40
+e=a+b+c+d
+print(e)
 l=[1,2,3,'hii',4.5] #list
 t=(1,2,3,4)#tuple
-e={1,2,3,4}#set
+f={1,2,3,4}#set
 dict={"hello":123,'narendra':456}
 print(l)
 print(t)
-print(e)
+print(f)
 print(dict)
