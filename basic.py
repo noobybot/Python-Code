@@ -7,7 +7,7 @@ print(c)
 l=[1,2,3,'hii',4.5] #list
 t=(1,2,3,4)#tuple
 d={1,2,3,4}#set
-dict={"shivam":123,'patel':456}
+dict={"hello":123,'narendra':456}
 print(l)
 print(t)
 print(d)
